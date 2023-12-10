@@ -15,3 +15,7 @@
   <a href="https://www.linkedin.com/in/luiz-gustavo-da-silva-aab547222" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:yatodev098@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+##
+
+<img height='240em' src='https://github-readme-streak-stats.herokuapp.com?user=Yato0v&theme=midnight-purple&border_radius=10'/>
