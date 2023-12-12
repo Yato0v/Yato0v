@@ -9,7 +9,7 @@
 
 ## Tecnologias usadas diariamente
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,git,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,git)
 
 ## Tecnologias que estou estudando
 
