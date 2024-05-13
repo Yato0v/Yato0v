@@ -1,4 +1,4 @@
-## Olá sou o Luiz Gustavo(Yato)
+## Olá sou o Luiz Gustavo
 
 ### 🔎 Quem sou eu?
 ### ♍ 18 Anos 
@@ -7,8 +7,7 @@
 
 ##
 
-## Tecnologias usadas diariamente
-
+## Tecnologias usadas frequentemente
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,git)
 
 ## Tecnologias que estou estudando
