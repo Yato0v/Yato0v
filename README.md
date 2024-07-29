@@ -12,7 +12,7 @@
 
 ## Tecnologias que estou estudando
 
-![My Skills](https://skillicons.dev/icons?i=mysql,react,ts)
+![My Skills](https://skillicons.dev/icons?i=mysql,react,ts,java)
 
 ##
 
