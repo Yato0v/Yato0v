@@ -8,7 +8,7 @@
 ##
 
 ## Tecnologias usadas frequentemente
-![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,git)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,wordpress,figma,git)
 
 ## Tecnologias que estou estudando
 
