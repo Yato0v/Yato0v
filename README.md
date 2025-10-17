@@ -1,7 +1,7 @@
 ## Olá sou o Luiz Gustavo
 
 ### 🔎 Quem sou eu?
-### ♍ 19 Anos 
+### ♍ 20 Anos 
 ### 💻 Desenvolvedor Front-end
 ### 📘 Adoro me manter antenado no mundo da tecnologia
 
